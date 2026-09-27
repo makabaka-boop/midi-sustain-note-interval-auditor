@@ -1,0 +1,10 @@
+{
+  "endTime": 90,
+  "events": [
+    {"time": 10, "type": "NOTE_ON", "channel": 0, "pitch": 60},
+    {"time": 20, "type": "PEDAL_DOWN", "channel": 0},
+    {"time": 30, "type": "NOTE_ON", "channel": 0, "pitch": 64},
+    {"time": 40, "type": "NOTE_OFF", "channel": 0, "pitch": 60},
+    {"time": 50, "type": "PEDAL_UP", "channel": 0}
+  ]
+}

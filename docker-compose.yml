@@ -1,0 +1,6 @@
+services:
+  sustain:
+    build: .
+    image: sustain-auditor:latest
+    stdin_open: true
+    # One-shot CLI:  docker compose run --rm -T sustain < input.json
